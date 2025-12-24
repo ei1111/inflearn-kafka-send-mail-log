@@ -1,4 +1,4 @@
-# spring-kafka-signup-mail
+# spring-kafka-Consumer-signup-mail
 
 Spring Kafka를 활용하여 **회원 가입 이벤트 발생 시 이메일 발송을 처리하는 Kafka Consumer API 프로젝트**입니다.  
 재시도 정책과 Dead Letter Topic(DLT)을 적용하여  
